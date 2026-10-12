@@ -1,0 +1,4 @@
+make: Entering directory '/workspace/scratch/206503326401/projects/rf-wallmarket-purchase-core'
+make: Nothing to be done for 'all'.
+./build/test
+make: Leaving directory '/workspace/scratch/206503326401/projects/rf-wallmarket-purchase-core'
